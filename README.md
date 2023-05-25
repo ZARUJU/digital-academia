@@ -1,10 +1,9 @@
 # Digital Academia
 
-## ライブラリ
+## 構成
 
-- Python 3.
-- Django 
-- 
+- Python 3.10
+- Django 4.2
 
 ## 構想
 
